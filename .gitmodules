@@ -1,0 +1,6 @@
+[submodule "compiler"]
+	path = compiler
+	url = https://PoolloverNathan@github.com/c-minusminus/compiler.git
+[submodule "docs"]
+	path = docs
+	url = https://PoolloverNathan@github.com/c-minusminus/documentation.git
